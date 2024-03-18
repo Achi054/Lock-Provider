@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.34031.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockProvider", "LockProvider.csproj", "{19C347B9-DAC7-4538-AE73-ADFFB4DB867E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockProviderTest", "LockProviderTest\LockProviderTest.csproj", "{1CA5505B-BD5B-45C0-A916-E54333F3B7AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C347B9-DAC7-4538-AE73-ADFFB4DB867E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C347B9-DAC7-4538-AE73-ADFFB4DB867E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C347B9-DAC7-4538-AE73-ADFFB4DB867E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C347B9-DAC7-4538-AE73-ADFFB4DB867E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CA5505B-BD5B-45C0-A916-E54333F3B7AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CA5505B-BD5B-45C0-A916-E54333F3B7AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CA5505B-BD5B-45C0-A916-E54333F3B7AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CA5505B-BD5B-45C0-A916-E54333F3B7AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5209A3A8-1F79-4B60-92EC-8EC390EB0100}
+	EndGlobalSection
+EndGlobal
